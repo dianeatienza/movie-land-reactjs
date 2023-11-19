@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Hi! I was able to create this simple React App by following the tutorial posted by JavaScriptMastery on YouTube. If you're interested in trying it out, here is the YouTube video link you can follow along with: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=3s
+
+Enjoy and have fun learning React JS!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
