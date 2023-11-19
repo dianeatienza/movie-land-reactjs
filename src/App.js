@@ -13,7 +13,7 @@ const movie1 = {
     "Poster": "https://m.media-amazon.com/images/M/MV5BNmMzODkwNDktMTkyMy00MmU5LWE4MGMtYzIzZjdjNmJiZDRiXkEyXkFqcGdeQXVyNDU1NDQ0NzE@._V1_SX300.jpg"
 }
 
-const API_URL = 'http://www.omdbapi.com?apikey=1b66e7f6'
+const API_URL = 'https://www.omdbapi.com?apikey=1b66e7f6'
 
 const App = () => {
 
